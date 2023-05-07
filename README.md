@@ -2,9 +2,9 @@
 
 ! [Expense Tract Am I Responsive]()
 
-Expense Track is a personal finance website that allows users to track their expenses, income, and
-savings goals. The website allows users to create transactions and assign them to specific categories, and then caloculates and display the user's current balance.
-Users can also stt savings goals and track their progress towards achieving them.
+Expense Track es un sitio web de finanzas personales que permite a los usuarios realizar un seguimiento de sus gastos, ingresos y
+objetivos de ahorro. El sitio web permite a los usuarios crear transacciones y asignarlas a categorías específicas, y luego calcula y muestra el saldo actual del usuario.
+Los usuarios también pueden establecer objetivos de ahorro y realizar un seguimiento de su progreso para alcanzarlos.
 
 [Visit live website]()
 
