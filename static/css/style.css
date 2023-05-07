@@ -1,0 +1,15 @@
+body {
+    min-height: 100vh;
+}
+
+/* Navbar */
+
+.navbar-collapse {
+    flex-grow: unset;
+}
+
+/* Balance Section */
+
+.balance {
+    max-width: 50%;
+}
